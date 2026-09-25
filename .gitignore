@@ -1,0 +1,28 @@
+# ==============================
+# SolidWorks temporary files
+# ==============================
+
+~$*.sldprt
+~$*.sldasm
+~$*.slddrw
+
+*.bak
+*.tmp
+*.log
+
+
+# ==============================
+# SolidWorks backup / recovery
+# ==============================
+
+*.sldprt.bak
+*.sldasm.bak
+*.slddrw.bak
+
+
+# ==============================
+# Windows
+# ==============================
+
+Thumbs.db
+Desktop.ini
